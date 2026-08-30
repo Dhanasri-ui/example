@@ -134,7 +134,7 @@ button:hover {
 
     .options {
         flex-direction: column;
-        gap: 10px;
+        gap: 20px;
         align-items: flex-start;
     }
 }
